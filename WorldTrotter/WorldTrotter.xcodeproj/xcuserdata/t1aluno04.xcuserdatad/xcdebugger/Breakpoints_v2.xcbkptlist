@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorldTrotter/ConversionViewController.swift"
+            timestampString = "546377748.7305419"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "ConversionViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorldTrotter/MapViewController.swift"
+            timestampString = "546436061.38238"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "MapViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldTrotter.MapViewController.__deallocating_deinit"
+                  moduleName = "WorldTrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t1aluno04/Desktop/WorldTrotter/WorldTrotter/MapViewController.swift"
+                  timestampString = "546350758.011713"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldTrotter.MapViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; WorldTrotter.MapViewController"
+                  moduleName = "WorldTrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t1aluno04/Desktop/WorldTrotter/WorldTrotter/MapViewController.swift"
+                  timestampString = "546350758.0143189"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldTrotter.MapViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; WorldTrotter.MapViewController"
+                  moduleName = "WorldTrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t1aluno04/Desktop/WorldTrotter/WorldTrotter/MapViewController.swift"
+                  timestampString = "546350758.0160609"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldTrotter.MapViewController.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;WorldTrotter.MapViewController&gt;"
+                  moduleName = "WorldTrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t1aluno04/Desktop/WorldTrotter/WorldTrotter/MapViewController.swift"
+                  timestampString = "546350758.017735"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldTrotter.MapViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;WorldTrotter.MapViewController&gt;"
+                  moduleName = "WorldTrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t1aluno04/Desktop/WorldTrotter/WorldTrotter/MapViewController.swift"
+                  timestampString = "546350758.01938"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorldTrotter/MapViewController.swift"
+            timestampString = "546436061.382971"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "MapViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldTrotter.MapViewController.mapView.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.MKMapView&gt;"
+                  moduleName = "WorldTrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t1aluno04/Desktop/WorldTrotter/WorldTrotter/MapViewController.swift"
+                  timestampString = "546350761.2202621"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldTrotter.MapViewController.mapView.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.MKMapView&gt;"
+                  moduleName = "WorldTrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t1aluno04/Desktop/WorldTrotter/WorldTrotter/MapViewController.swift"
+                  timestampString = "546350761.222435"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldTrotter.MapViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; WorldTrotter.MapViewController"
+                  moduleName = "WorldTrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t1aluno04/Desktop/WorldTrotter/WorldTrotter/MapViewController.swift"
+                  timestampString = "546350761.224651"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WorldTrotter.MapViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;WorldTrotter.MapViewController&gt;"
+                  moduleName = "WorldTrotter"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/t1aluno04/Desktop/WorldTrotter/WorldTrotter/MapViewController.swift"
+                  timestampString = "546350761.226681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
